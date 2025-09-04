@@ -34,9 +34,7 @@
   </p>
 
   <p>
-    This book is about <b>data visualization</b> in Python, teaching libraries such as <i>matplotlib</i>, <i>chaco</i>, and <i>Pyx</i>.
-    It explains how to build line charts, bar charts, histograms, scatterplots, boxplots, and trellis plots, while showing how
-    to use pandas and matplotlib for meaningful visualizations.
+As this is a data visualization book which can teach alot about various libraries in python like matplotlib,chaco, Pyx which are famous tools used for creating charts, graphs, and other visuals for the sake of representing the data in a meaningful way. It talks in depth about various visuals like normal distribution, scatterplot chart, plotting visual using pandas daraframe, using matplotlib library to construct line charts, bar charts, histograms and other things which I feel is very useful for representing the data. It also introduces the working of Boxplots, Scatterplots, Trellis plots which cover in greater detail about their functionalities and how to plot them in python along with its codebase.
   </p>
 </body>
 </html>
