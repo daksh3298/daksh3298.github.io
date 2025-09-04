@@ -4,7 +4,7 @@
   </head>
   <body>
     <H1>This is Daksh Gupta</H1><br>
-    <p>
+
       The dataset which I found fascinating is Amazon Sales dataset-
 <a href=https://www.kaggle.com/datasets/ikramshah512/amazon-products-sales-dataset-42k-items-2025>My favourite dataset</a>
 
