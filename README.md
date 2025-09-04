@@ -1,9 +1,5 @@
 
 <html>
-<head>
-
-  <title>Daksh Gupta Website</title>
-</head>
 <body>
   <h1>This is Daksh Gupta</h1>
 
